@@ -5,11 +5,13 @@
 //FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.<$04><$30><$05>
 FLECTERE SI NEQUEO SUPEROS,\nACHERONTA MOVEBO.<$04><$30><$05>
 //天上の神々を動かせれば、冥界をも動かさん‥‥<$04><$30><$05>
-If I cannot bend Heaven, I shall move Hell...<$04><$30><$05>
+/*If I can move the gods of Heaven, can I not too move Hell...<$04><$30><$05>
+#I'm not 100% on this so I used your /* but I think the negative at the end is an implied question. "If the gods of Heaven can be made to move, *can't* Hell also?" An implied question does not need ? at the end so I left it off.
 //Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]<$04><$30><$05>
 Ｘ　Ｅ　Ｎ　Ｏ　Ｎ\n\n　[ z i; n o n ]<$04><$30><$05>
 //　　　　さぁ、あなたはこれから、目を覚まします。<$04><$30><$05>
             Hark, for your slumber will now end.<$04><$30><$05>
+#I really like the wording here, but I think it's just the therapist speaking so I think she'd use more clinical language.
 //\n　<$05>
 \n　<$05>  
 //　あなたがそこで見聞きすることは、全て現実なのです。<$04><$30><$05>
@@ -41,25 +43,27 @@ When I count to three, you will wake up. Okay?<$04><$30><$05>
 //［涼子］：ずいぶんと長い間、ボーっとしていたけど、大丈夫？
 [Ryouko]:You've been spacing out for quite a long time. You all right ?
 //［宏治］：えっ？　えぇ‥‥何だか、今日見た夢を思い出していまして‥‥。
-[Kouji]:Er? Er... I just remembered the dream I saw today...
+[Kouji]:Er? Yeah. I just remembered the dream I had today.
+#FYI: I've found that ... (elipsis) are used differently in Japanese. It means a pause in Japanese, but not always indicating omission like in English. I try to shorten them to a single period whenever possible, unless there is definitely an implied continuation that is missing.
 //［涼子］：夢？　ここのところ、毎日見るという、例の‥‥？
-[Ryouko]:A dream? You mean the one you've seen every day lately, this one?
+[Ryouko]:A dream? You mean the one you've had every day lately?
 //［宏治］：そうなんですよ、うなされています。
-[Kouji]:As you said, it was the same nightmare.
+[Kouji]:Yeah, that same nightmare.
 //そうだった‥‥僕は、ここのところ毎日あの夢を見る‥‥あの言い様のない、緊張の不安をあおり立てる、恐い恐い夢だった。
-That was true... Lately, I've been seeing the same dream every day. An indescribable truely scary dream that was really shaking me up.
+That's right. Lately, I've been seeing the same dream every day. An indescribable truly scary dream that was really shaking me up.
 //目の前の女性‥‥涼子は、短い髪を後ろにかき上げると、いくぶん厳しい顔を僕に向けた。
-The woman before me, Ryouko... While pushing back her short hair, she turned a somewhat harsh look at me.
+The woman before me, Ryouko, brushed back her short hair and turned a somewhat stern gaze at me.
 //［涼子］：とりあえず催眠治療は、このくらいにしておきましょう。
 [Ryouko]:Anyway, let's stop here for the hypnotherapy.
 //［宏治］：えっ‥‥？　もう終わりですか。
 [Kouji]:What...? Is it already finished?
 //［涼子］：終わりではないわ。今日は、その夢のことも聞かせて頂戴。
-[Ryouko]:No, that's not. But today, you'll also tell me about your dream.
+[Ryouko]:No, not yet. Today I'd like you to tell me about this dream too.
 //［宏治］：ゆ、夢のことも‥‥ですか？
 [Kouji]:My... my dream?
 //［涼子］：フフ、恥ずかしがるような夢、なのかしら？
-[Ryouko]:Fufu, are you embarassed? Is it _that_ kind of dream?
+[Ryouko]: Tee-hee, are you embarassed? Is it _that_ kind of dream?
+#Laughs are one of the reasons I started using a translation memory. :) It's hard to decide what to translate them as. I think it's better to localize it to something more common in English.
 //［宏治］：まさか‥‥‥。
 [Kouji]:Don't make fun of me...
 //［涼子］：私は医者よ。話しても、大丈夫。
